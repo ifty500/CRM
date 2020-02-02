@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "editor.tabCompletion": "on",
+    "emmet.showSuggestionsAsSnippets": true
+}
